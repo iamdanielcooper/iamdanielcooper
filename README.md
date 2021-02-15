@@ -1,10 +1,31 @@
-- 👋 Hi, I’m @danjcooper
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi I'm Dan 👋🏻  
+## I build webapps and Adobe Illustrator Scripts.
+#### Feel free to get in touch, I'd love to work on something with you.
 
-<!---
-danjcooper/danjcooper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## Working On
+🕸 Front-End
+* Javascript
+* HTML & CSS
+* Javascript
+
+---
+
+🏭 Back-End
+* NodeJS
+* MongoDB
+
+---
+
+🖋 Adobe Illustrator Scripting
+
+## What's Next
+⚛ React  
+💎 Ruby
+
+---
+
+## Socials
+**[Twitter](https://twitter.com/DanCooperCodes)**  
+**[LinkedIn](https://www.linkedin.com/in/daniel-cooper-082b7a17a/)**  
