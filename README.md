@@ -8,7 +8,6 @@
 🕸 Front-End
 * Javascript
 * HTML & CSS
-* Javascript
 
 ---
 
