@@ -4,24 +4,7 @@
 
 ---
 
-## Working On
-🕸 Front-End
-* Javascript
-* HTML & CSS
 
----
-
-🏭 Back-End
-* NodeJS
-* MongoDB
-
----
-
-🖋 Adobe Illustrator Scripting
-
-## What's Next
-⚛ React  
-💎 Ruby
 
 ---
 
