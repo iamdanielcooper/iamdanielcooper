@@ -4,10 +4,3 @@
 
 ---
 
-
-
----
-
-## Socials
-**[Twitter](https://twitter.com/DanCooperCodes)**  
-**[LinkedIn](https://www.linkedin.com/in/daniel-cooper-082b7a17a/)** 
